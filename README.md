@@ -1,5 +1,5 @@
 # Predicting-Patient-specific-Disease-states
-This repository contains the Python code and data to reproduce the results presented in the paper: Chaimaa Tarzi,Guido Zampieri,Suraj Verma,Neil Sullivan,Claudio Angione entitled 'Predicting Patient-specific Disease States by Combining Community Metabolic Modeling and Machine Learning'
+This repository contains the Python code and data to reproduce the results presented in the paper: Chaimaa Tarzi, Guido Zampieri, Suraj Verma, Neil Sullivan, Claudio Angione entitled 'Predicting Patient-specific Disease States by Combining Community Metabolic Modeling and Machine Learning'
 
 # How to run
 
