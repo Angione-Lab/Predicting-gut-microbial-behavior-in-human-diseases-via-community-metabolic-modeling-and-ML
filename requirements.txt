@@ -1,0 +1,16 @@
+cherrypy~=18.8.0
+cheroot~=8.6.0
+itertools~=8.14.0
+python_libsbml~=5.19.2
+wheel~=0.37.1
+pandas~=1.1.5
+cobra~=0.4.0
+gurobi~=9.1.0
+numpy~=1.19.5
+matplotlib~=3.3.4
+nltk~=3.6.3
+scikit-learn~=0.24.2
+xgboost~=1.4.2
+scipy~=1.5.4
+pandas~=1.1.5
+shap~=0.39.0
