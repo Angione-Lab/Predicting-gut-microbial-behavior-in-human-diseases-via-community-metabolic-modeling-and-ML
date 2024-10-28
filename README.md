@@ -1,4 +1,4 @@
-<h1> Predicting Patient-specific Disease States </h1>
+<h1> Predicting gut microbial behavior in human diseases via community metabolic modeling and machine learning </h1>
 This repository contains the code and data to reproduce the results presented in the paper: Chaimaa Tarzi, Guido Zampieri, Suraj Verma, Stefano Campanaro, Neil Sullivan, Claudio Angione, "Predicting gut microbial behavior in human diseases via community metabolic modeling and machine learning". </br></br>
 
 <p>This project focuses on developing a pipeline involving pairwise genome-scale metabolic modeling, statistical analysis, and machine learning to predict patient-specific disease states. Initially, genome-scale metabolic models are constructed and curated using CarveMe and ModelPolisher, followed by pairwise reconstruction to analyze species interactions within microbial communities. </br></br>
