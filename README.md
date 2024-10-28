@@ -1,5 +1,5 @@
 <h1> Predicting Patient-specific Disease States </h1>
-This repository contains the code and data to reproduce the results presented in the paper: Chaimaa Tarzi, Guido Zampieri, Suraj Verma, Stefano Campanaro, Neil Sullivan, Claudio Angione, "Predicting gut microbial behavior in human diseases via community metabolic modeling and machine learning " 
+This repository contains the code and data to reproduce the results presented in the paper: Chaimaa Tarzi, Guido Zampieri, Suraj Verma, Stefano Campanaro, Neil Sullivan, Claudio Angione, "Predicting gut microbial behavior in human diseases via community metabolic modeling and machine learning " </br></br>
 
 <p>This project focuses on developing a pipeline involving pairwise genome-scale metabolic modeling, statistical analysis, and machine learning to predict patient-specific disease states. Initially, genome-scale metabolic models are constructed and curated using Carveme and ModelPolisher, followed by pairwise reconstruction to analyze species interactions within microbial communities. </br></br>
 The interactions are evaluated under defined metabolic conditions, classifying them into positive (e.g., mutualism) or negative (e.g., competition) based on growth rate impacts. The data is further analyzed using R, where patient-level features are visualized through UMAP and statistical tests, highlighting significant differences in exchange reactions. </br></br>
@@ -45,7 +45,7 @@ In the next step, run the <strong> Esemble_model </strong> script to implement a
 Main plots and biological interpretation plots are plotted in R.
 
 <h2>Project Structure</h2>
-<img src="https://github.com/user-attachments/assets/092603ad-1a72-4316-b78a-2694c30bb448" class="inline" width="50%" style="display: block; margin: auto;" />
+<img src="https://github.com/user-attachments/assets/092603ad-1a72-4316-b78a-2694c30bb448" class="inline" width="40%" style="display: block; margin: auto;" />
 
 Note: Python 3.6.x is required, a check is specifically put into the code before it continues.
 Jupyter notebook server is required
