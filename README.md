@@ -34,7 +34,12 @@ To prepare the data for machine learning analysis, we begin by organizing the sa
 After preprocessing the data, we proceed to implement machine-learning models to predict patient-specific disease states in the folder 'ML model'. The first step involves training multiple classifiers and interpreting their results using SHAP values to understand feature importance. In the 6ML_classifier script, we train several models, including Support Vector Classifier (SVC), K-Nearest Neighbors (KNN), Gradient Boosting (GB), Decision Tree, Random Forest, and Gradient Boosting classifiers. The SHAP values are calculated to interpret the model predictions. This code calculates the SHAP values for each model, visualizes the distribution of SHAP values for the top features, and categorizes them based on their importance.
 In the next step, run the Esemble_model script to implement an ensemble model to improve prediction accuracy. The ensemble model combines the predictions of multiple classifiers using a voting mechanism. The following code snippet defines the ensemble model using SVC, KNN, and gradient-boosting classifiers.
 
- 
+<h2>Plots</h2>
+Main plots and biological interpretation plots are plotted in R.
+
+<h2>Project Structure</h2>
+<img src="https://github.com/user-attachments/assets/092603ad-1a72-4316-b78a-2694c30bb448" class="inline" width="80%" style="display: block; margin: auto;" />
+
 Note: Python 3.6.x is required, a check is specifically put into the code before it continues.
 Jupyter notebook server is required
 Ensure all pip dependencies are installed as listed in requirements.txt
