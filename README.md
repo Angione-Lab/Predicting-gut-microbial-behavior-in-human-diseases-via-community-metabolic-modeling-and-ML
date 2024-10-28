@@ -47,8 +47,8 @@ Main plots and biological interpretation plots are plotted in R.
 <h2>Project Structure</h2>
 <img src="https://github.com/user-attachments/assets/092603ad-1a72-4316-b78a-2694c30bb448" class="inline" width="40%" style="display: block; margin: auto;" />
 
-Note: Python 3.6.x is required, a check is specifically put into the code before it continues.
-Jupyter notebook server is required
+Note: Python 3.6.x is required, a check is specifically put into the code before it continues.</br>
+Jupyter notebook server is required</br>
 Ensure all pip dependencies are installed as listed in requirements.txt
     
 
