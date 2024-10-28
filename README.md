@@ -8,11 +8,11 @@ A comprehensive machine learning framework is then employed, leveraging multiple
 <h1> Overview </h1> 
 The Predicting Patient-specific Disease States project is structured into five main parts:
     <ul>
-    <li><p>Genome-Scale Metabolic Model Construction: A Jupyter Notebook that guides users through the process of building and refining GEMs.</p></li>
-    <li><p>Pairwise Reconstruction and Analysis: A pipeline for analyzing interactions between different metabolic models.</p></li>
-    <li><p>Growth Rate Calculation: A method to evaluate the growth rates of microbial species under defined conditions.</p></li>
-    <li><p>R Analysis: Statistical analysis and visualization of patient-level features using R.</p></li>
-    <li><p>Machine learning: This part involves applying machine learning techniques to analyze patient data and predict disease states. By utilizing various classifiers and SHAP values, we can interpret model predictions and identify key features influencing patient outcomes. Additionally, ensemble modeling techniques are employed to enhance prediction accuracy, leveraging the strengths of multiple classifiers for more robust results.</p></li>
+    <li><p>Genome-scale metabolic model construction: a Jupyter Notebook that guides users through the process of building and refining GEMs.</p></li>
+    <li><p>Pairwise reconstruction and analysis: a pipeline for analyzing interactions between different metabolic models.</p></li>
+    <li><p>Growth rate calculation: a method to evaluate the growth rates of microbial species under defined conditions.</p></li>
+    <li><p>R analysis: statistical analysis and visualization of patient-level features using R.</p></li>
+    <li><p>Machine learning: this part involves applying machine learning techniques to analyze patient data and predict disease states. By utilizing various classifiers and SHAP values, we can interpret model predictions and identify key features influencing patient outcomes. Additionally, ensemble modeling techniques are employed to enhance prediction accuracy, leveraging the strengths of multiple classifiers for more robust results.</p></li>
     </ul>
 <h2>1. Genome-Scale Metabolic Model Construction</h2>
 <p>
