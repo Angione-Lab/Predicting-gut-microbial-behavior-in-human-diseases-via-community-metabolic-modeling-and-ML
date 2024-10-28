@@ -17,7 +17,7 @@ The Predicting Patient-specific Disease States project is structured into five m
 <h2>1. Genome-Scale Metabolic Model Construction</h2>
 <p>
 To get started, ensure you have the necessary input sequence files prepared and saved in the designated folders.
-CarveMe serves as an automated reconstruction tool that generates a simulation-ready metabolic model based on MAG sequence data <strong>!carve --dna SRR12328886_bin.3.fa --universe grampos --fbc2 -o SRR12328886_bin_3_fbc2.xml</strong>. </br> </br>
+CarveMe serves as an automated reconstruction tool that generates a simulation-ready metabolic model based on MAG sequence data. </br> </br>
 Begin by executing the command line in <strong>Tutorial GEM reconstruction.ipynb</strong> script, which will create the initial draft GEM. Following this, the use of the MEMOTE test suite is important to run a series of standardized tests that assess various aspects of the model, generating a report that highlights its strengths and areas for improvement. </br></br>
 This automated testing process facilitates tracking incremental changes and ensures that the model meets community standards. Then to enhance and improve the quality of the model through improved annotation and curation. </br></br>
 Note: Ensure that all prerequisite software and dependencies for CarveMe, MEMOTE, and ModelPolisher are installed prior to running the scripts. 
