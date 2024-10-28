@@ -6,7 +6,7 @@ This project focuses on developing a pipeline involving pairwise genome-scale me
 <h1> Overview </h1> 
 The Predicting Patient-specific Disease States project is structured into three main parts:
     <ul>
-    <li><p>Genome-Scale Metabolic Model Construction: A Jupyter Notebook that guides users through the process of building and refining GEMs.<\p></li>
+    <li><p>Genome-Scale Metabolic Model Construction: A Jupyter Notebook that guides users through the process of building and refining GEMs.</p></li>
     <li><p>Pairwise Reconstruction and Analysis: A pipeline for analyzing interactions between different metabolic models.</p></li>
     <li><p>Growth Rate Calculation: A method to evaluate the growth rates of microbial species under defined conditions.</p></li>
     <li><p>R Analysis: Statistical analysis and visualization of patient-level features using R.</p></li>
