@@ -1,1 +1,1 @@
-ModelName 	 ObjFuntionSpeciesA 	 ObjFunctionSpeceisB 	 GRSpeciesAFull 	 GRSpeciesBFull 	 GRASolo 	 GRBSolo
+ModelName 	 ObjFuntionSpeciesA 	 ObjFunctionSpeceisB 	 GRSpeciesAFull 	 GRSpeciesBFull 	 GRASolo 	 GRBSol
