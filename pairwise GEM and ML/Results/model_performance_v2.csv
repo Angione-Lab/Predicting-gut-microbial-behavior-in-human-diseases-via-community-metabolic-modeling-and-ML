@@ -1,0 +1,71 @@
+﻿classifier,Accuracy,Precision,Recall,F1
+SVC,0.75,0.833333,0.75,0.733333
+KNeighborsClassifier,0.65,0.7,0.65,0.626667
+LGBMClassifier,0.75,0.774725,0.75,0.744246
+DecisionTreeClassifier,0.65,0.664835,0.65,0.641944
+RandomForestClassifier,0.7,0.7,0.7,0.7
+GradientBoostingClassifier,0.7,0.708333,0.7,0.69697
+SVC,0.75,0.752525,0.75,0.749373
+KNeighborsClassifier,0.65,0.651515,0.65,0.649123
+LGBMClassifier,0.65,0.664835,0.65,0.641944
+DecisionTreeClassifier,0.7,0.7,0.7,0.7
+RandomForestClassifier,0.65,0.651515,0.65,0.649123
+GradientBoostingClassifier,0.8,0.8,0.8,0.8
+SVC,0.8,0.8125,0.8,0.79798
+KNeighborsClassifier,0.5,0.5,0.5,0.494949
+LGBMClassifier,0.5,0.5,0.5,0.494949
+DecisionTreeClassifier,0.45,0.445055,0.45,0.43734
+RandomForestClassifier,0.7,0.7,0.7,0.7
+GradientBoostingClassifier,0.7,0.708333,0.7,0.69697
+SVC,0.7,0.7,0.7,0.7
+KNeighborsClassifier,0.7,0.708333,0.7,0.69697
+LGBMClassifier,0.55,0.550505,0.55,0.548872
+DecisionTreeClassifier,0.6,0.6,0.6,0.6
+RandomForestClassifier,0.6,0.604167,0.6,0.59596
+GradientBoostingClassifier,0.55,0.550505,0.55,0.548872
+SVC,0.6,0.619048,0.6,0.583333
+KNeighborsClassifier,0.75,0.774725,0.75,0.744246
+LGBMClassifier,0.5,0.5,0.5,0.494949
+DecisionTreeClassifier,0.7,0.708333,0.7,0.69697
+RandomForestClassifier,0.5,0.5,0.5,0.5
+GradientBoostingClassifier,0.7,0.708333,0.7,0.69697
+SVC,0.6,0.65625,0.6,0.56044
+KNeighborsClassifier,0.7,0.7,0.7,0.7
+LGBMClassifier,0.75,0.752525,0.75,0.749373
+DecisionTreeClassifier,0.55,0.550505,0.55,0.548872
+RandomForestClassifier,0.65,0.651515,0.65,0.649123
+GradientBoostingClassifier,0.7,0.738095,0.7,0.6875
+SVC,0.65,0.794118,0.65,0.60114
+KNeighborsClassifier,0.65,0.7,0.65,0.626667
+LGBMClassifier,0.65,0.651515,0.65,0.649123
+DecisionTreeClassifier,0.7,0.7,0.7,0.7
+RandomForestClassifier,0.6,0.604167,0.6,0.59596
+GradientBoostingClassifier,0.75,0.752525,0.75,0.749373
+SVC,0.65,0.651515,0.65,0.649123
+KNeighborsClassifier,0.65,0.664835,0.65,0.641944
+LGBMClassifier,0.75,0.752525,0.75,0.749373
+DecisionTreeClassifier,0.6,0.604167,0.6,0.59596
+RandomForestClassifier,0.7,0.738095,0.7,0.6875
+GradientBoostingClassifier,0.7,0.7,0.7,0.7
+SVC,0.7,0.7,0.7,0.7
+KNeighborsClassifier,0.65,0.651515,0.65,0.649123
+LGBMClassifier,0.55,0.550505,0.55,0.548872
+DecisionTreeClassifier,0.5,0.5,0.5,0.5
+RandomForestClassifier,0.7,0.708333,0.7,0.69697
+GradientBoostingClassifier,0.6,0.604167,0.6,0.59596
+SVC,0.65,0.7,0.65,0.626667
+KNeighborsClassifier,0.5,0.5,0.5,0.450549
+LGBMClassifier,0.55,0.550505,0.55,0.548872
+DecisionTreeClassifier,0.45,0.449495,0.45,0.448622
+RandomForestClassifier,0.45,0.445055,0.45,0.43734
+GradientBoostingClassifier,0.45,0.449495,0.45,0.448622
+Ensemble model,0.8,0.857142857,0.8,0.791666667
+Ensemble model,0.88,0.8725,0.88,0.857979798
+Ensemble model,0.8,0.8125,0.8,0.797979798
+Ensemble model,0.85,0.851515152,0.85,0.849122807
+Ensemble model,0.87,0.874725275,0.85,0.874245524
+Ensemble model,0.75,0.752525253,0.75,0.749373434
+Ensemble model,0.7,0.8125,0.7,0.67032967
+Ensemble model,0.75,0.752525253,0.75,0.749373434
+Ensemble model,0.85,0.851515152,0.85,0.849122807
+Ensemble model,0.7,0.75,0.7,0.726666667
