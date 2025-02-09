@@ -1,4 +1,4 @@
-cherrypy~=18.8.0
+cherrypy~=18.8.1
 cheroot~=8.6.0
 itertools~=8.14.0
 python_libsbml~=5.19.2
