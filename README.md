@@ -8,7 +8,7 @@ A comprehensive machine learning framework is then employed, leveraging multiple
 <h1> Overview </h1> 
 The Predicting Patient-specific Disease States project is structured into five main parts:
     <ul>
-    <li><p>Genome-scale metabolic model construction: a Jupyter Notebook that guides users through the process of building and refining GEMs.</p></li>
+    <li><p>Genome scale metabolic model construction: a Jupyter Notebook that guides users through the process of building and refining GEMs.</p></li>
     <li><p>Pairwise reconstruction and analysis: a pipeline for analyzing interactions between different metabolic models.</p></li>
     <li><p>Growth rate calculation: a method to evaluate the growth rates of microbial species under defined conditions.</p></li>
     <li><p>R analysis: statistical analysis and visualization of patient-level features using R.</p></li>
