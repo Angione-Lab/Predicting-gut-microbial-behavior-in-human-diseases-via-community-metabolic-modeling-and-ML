@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Apr 27 08:33:39 2023
+Created on Thu Apr 27 08:33:39 2025
 
-@author: U0034546
+@author: U0034206
 """
 
 import pandas as pd
@@ -59,3 +59,4 @@ healthy_item = pd.DataFrame(extract_interaction_type(healthy_cohert, 'H')).T
 all_samples = pd.concat([covid_item, healthy_item], axis = 0).fillna(0).reset_index(drop=True)
 
 all_samples.to_csv('covid_healthy.csv')
+
