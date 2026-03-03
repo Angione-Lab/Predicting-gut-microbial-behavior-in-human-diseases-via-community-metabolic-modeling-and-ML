@@ -1,4 +1,4 @@
-import o
+import os
 from MMinte.MMinte.site.widget4 import totalEXRxns,createEXmodel,createReverseEXmodel, addEXMets2SpeciesEX, replaceRxns,replaceMets,createCommunityModel,allPairComModels,createAllPairs
 from MMinte.MMinte.site.widget5 import calculateGR
 from MMinte.MMinte.site.widget6 import evaluateInteractions
