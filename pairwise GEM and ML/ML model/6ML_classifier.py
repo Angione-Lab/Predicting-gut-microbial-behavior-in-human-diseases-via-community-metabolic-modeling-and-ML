@@ -1,5 +1,5 @@
 
-import pandas as pd
+import pandas as p
 import matplotlib.pyplot as plt
 import numpy as np
 import seaborn as sns
@@ -401,5 +401,6 @@ sns.clustermap(df1.drop(columns=['label_H']),
 
 plt.title('SHAP Heatmap clustered by Instances with Custom Row Colors')
 plt.show()
+
 
 
